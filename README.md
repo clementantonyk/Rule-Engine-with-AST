@@ -30,3 +30,13 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
     cd Rule-Engine-with-AST
     ```
 3. Run ```RuleEngineApplication.java```
+
+## Usage
+
+**After running ```RuleEngineApplication.java```, you can use the following URLs**:
+
+1. To navigate to the Home page
+   
+   ```
+   http://localhost:8080
+   ```
