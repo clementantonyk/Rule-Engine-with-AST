@@ -18,18 +18,20 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 
 **Make sure that IDE is Installed and Opened**
 
- 1. Clone the repository by using the command
+ 1. Open The Terminal
+    
+ 2. Clone the repository by using the command
      
      ```
       git clone https://github.com/clementantonyk/Rule-Engine-with-AST.git
      ```
      
- 2. Navigate to the project directory:
+ 3. Navigate to the project directory:
     
     ```
     cd Rule-Engine-with-AST
     ```
-3. Run ```RuleEngineApplication.java```
+4. Run ```RuleEngineApplication.java```
 
 ## Usage
 
