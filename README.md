@@ -41,7 +41,7 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
    http://localhost:8080
    ```
 
-## Screenshots
+## Screenshot
 
 ![image](https://github.com/user-attachments/assets/0891e684-c2db-4927-827a-9a8ae6069c2b)
 
