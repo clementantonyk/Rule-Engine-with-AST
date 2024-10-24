@@ -35,7 +35,7 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 
 **After running ```RuleEngineApplication.java```, you can use the following URLs**:
 
-1. To navigate to the Home page
+1. To navigate to the Rule Engine Dashboard
    
    ```
    http://localhost:8080
@@ -43,4 +43,5 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/48697c64-e7ad-4f71-97ab-8588d31daf71)
+![image](https://github.com/user-attachments/assets/0891e684-c2db-4927-827a-9a8ae6069c2b)
+
