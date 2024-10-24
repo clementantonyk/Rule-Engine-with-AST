@@ -8,7 +8,24 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 - Dynamically creates rules as Abstract Syntax Trees (ASTs) from user input.
 - Combines multiple rules into a single optimized AST for evaluation.
 - Evaluates rules against user attributes and returns eligibility based on the rule logic.
-- Supports advanced conditions with user-defined functions within the rule language.
 - Includes error handling for invalid rule strings or data formats.
-Incorporates validations for attributes using a predefined catalog.
-Flexible data model for rules storage and modification.
+- Incorporates validations for attributes using a predefined catalog.
+
+## Requirements
+- **IDE**: IntelliJ IDEA Ultimate or Visual Studio Code (or any other preferred code editor)
+
+## Installation
+
+**Make sure that IDE is Installed and Opened**
+
+ 1. Clone the repository by using the command
+     
+     ```
+      git clone https://github.com/clementantonyk/Rule-Engine-with-AST.git
+     ```
+     
+ 2. Navigate to the project directory:
+    
+    ```
+    cd Rule-Engine-with-AST
+    ```
