@@ -42,3 +42,5 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
    ```
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/48697c64-e7ad-4f71-97ab-8588d31daf71)
