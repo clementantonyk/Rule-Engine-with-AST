@@ -49,7 +49,11 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 
 ![image](https://github.com/user-attachments/assets/ced21419-92e6-4e46-934e-aa09c5ab5c99)
 
-**Combining a list of rule strings into a single AST, optimizing efficiency by minimizing redundant checks and leveraging a most frequent operator heuristic**
+**Combining a list of rule strings into a single AST, optimizing efficiency by minimizing redundant checks and using a strategy based on the most commonly used operators**
 
 ![image](https://github.com/user-attachments/assets/43ca2496-b14e-44b7-b181-49f64d2ce853)
+
+**Evaluates whether user attributes in JSON match the combined rule's AST, returning True if they do and False if they don't**
+
+![image](https://github.com/user-attachments/assets/696f5687-ae97-4990-9677-f5ebad228b17)
 
