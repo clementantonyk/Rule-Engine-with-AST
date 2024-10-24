@@ -49,3 +49,7 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 
 ![image](https://github.com/user-attachments/assets/ced21419-92e6-4e46-934e-aa09c5ab5c99)
 
+**Combining a list of rule strings into a single AST, optimizing efficiency by minimizing redundant checks and leveraging a most frequent operator heuristic**
+
+![image](https://github.com/user-attachments/assets/43ca2496-b14e-44b7-b181-49f64d2ce853)
+
