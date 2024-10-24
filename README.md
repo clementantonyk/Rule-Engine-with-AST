@@ -59,6 +59,6 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 
 **This system can handle various types of errors, including missing operators, invalid JSON data, incorrect rule strings etc.,**
 
-![image](https://github.com/user-attachments/assets/bf017b34-0f08-4b7d-a3ed-e6d0a5e86e9f)
+![image](https://github.com/user-attachments/assets/5154a779-32fa-40e3-a4da-94e6526b9115)
 
 
