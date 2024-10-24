@@ -55,5 +55,5 @@ The Rule Engine with AST is designed to dynamically create, modify, and evaluate
 
 **Evaluates whether user attributes in JSON match the combined rule's AST, returning True if they do and False if they don't**
 
-![image](https://github.com/user-attachments/assets/696f5687-ae97-4990-9677-f5ebad228b17)
+![image](https://github.com/user-attachments/assets/e580c92c-f12c-47c2-af94-c96ecf96749f)
 
